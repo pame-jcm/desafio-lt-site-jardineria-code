@@ -1,0 +1,12 @@
+
+// Abstract
+@import 'abstract/variables';
+
+// Components
+@import 'components/section';
+@import 'components/registrate';
+@import 'components/cardTienda';
+@import 'components/navBarPrin';
+
+/* import bootstrap para establecer cambios */ 
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';

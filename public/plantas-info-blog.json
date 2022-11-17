@@ -1,0 +1,51 @@
+[
+    {
+      "desc": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
+      "id": "P001",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/peperonia/peperonia_1.png",
+      "busqueda_x_coincidencia": ["mozzarella", "tomates", "jamón", "orégano"],
+      "titulo": "Peperonia",
+      "novedad":false
+    },
+    {
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+      "id": "P002",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/monstera/monstera.png",
+      "busqueda_x_coincidencia": ["mozzarella", "tomates", "jamón", "choricillo"],
+      "titulo": "Monstera",
+      "novedad":false
+    },
+    {
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+      "id": "P003",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/sansevieria/sansevieria.png",
+      "busqueda_x_coincidencia": ["mozzarella", "tomates", "salame", "orégano"],
+      "titulo": "Sansevieria",
+      "novedad":false
+    },
+    {
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+      "id": "P004",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/ficus_benjamina/ficus_benjamina.png",
+      "busqueda_x_coincidencia": ["mozzarella", "salame", "aceitunas", "champiñones"],
+      "titulo": "Ficus Benjamina",
+      "novedad":false
+    },
+    {
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+      "id": "P005",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/shefflera/shefflera.png",
+      "busqueda_x_coincidencia": ["mozzarella", "tomates cherry", "bacon", "orégano"],
+      "titulo": "Shefflera",
+      "novedad":false
+    },
+    {
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+      "id": "P006",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/aralia/aralia_japonica.png",
+      "busqueda_x_coincidencia": ["mozzarella", "pimientos", "pollo grillé", "orégano"],
+      "titulo": "Aralia Japonica",
+      "novedad":false
+    }
+  ]
+  

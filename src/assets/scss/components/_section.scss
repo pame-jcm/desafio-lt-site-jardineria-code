@@ -1,0 +1,71 @@
+/* Rectangle 13 */
+.divBase{
+    position: relative;
+    width: 100vw;
+    height: 372px;
+    background: #AEEDA4;
+}
+
+
+/* Rectangle 14 */
+.divSection{    
+    box-sizing: border-box;
+    position: absolute;
+    width: 720px;
+    height: 266px;
+    left:5%;
+    top:18%;
+   
+    background: rgba(17, 16, 16, 0.64);
+    border: 1px solid #959494;
+    border-radius: 15px;
+}
+
+.divSection h3{
+    
+    height: auto;
+    padding-left: 30px;;
+    padding-top: 30px;
+    color: #FFFFFF;
+}
+
+.divSection p{
+    padding-left: 30px;;
+    padding-top: 15px;
+    color: #FFFFFF;
+}
+/* Rectangle 15 */
+.divImg{
+    position: absolute;
+    width: 396px;
+    height: 488px;
+    left: 65%;
+    top:-18%;
+    
+}
+
+.divBase2{
+    position: relative;
+    margin-top: 130px;
+    width: 100vw;
+    height:550px;
+}
+
+.divBase2 .imgBase{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width: 100vw;
+    height:550px;
+}
+
+.divSection2{    
+    box-sizing: border-box;
+    position: absolute;
+    width: 720px;
+    height: 266px;
+    left:5%;
+    top:18%;
+   
+    background: rgba(174, 237, 164, 0.65);
+}

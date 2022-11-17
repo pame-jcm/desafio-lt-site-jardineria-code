@@ -1,0 +1,41 @@
+.divHeightRegistrate{
+    height: 100vh;
+}
+
+.divHeightLogin{
+    height: 100vh - 30;
+}
+
+.divMensaje{
+    position:relative;
+    top:80px;
+    left: 5%;
+    width: 75%;
+    height: 100vh - 30;
+    
+}
+
+.divRegistrate{
+    position:absolute;
+    top:-10%;
+    left:40%;
+    width: 100vw - 60;
+    background: #AEEDA4;
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.25);
+}
+
+.divMensajeLogin{
+    position:relative;
+    top:30px;
+    left: 35%;
+    width: 55%;
+    height: 83%;
+}
+
+.divLogin{
+    position:absolute;
+    top:7%;
+    left:-50%;
+    width: 100vw - 60;
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.25);;
+}
